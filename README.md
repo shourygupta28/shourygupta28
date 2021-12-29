@@ -1,10 +1,12 @@
-### Hi there, I'm [Shourya Gupta][website] 👋 
+### Hi there 👋 
+
+#### My name is Shourya Gupta. I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to ecplore new technologies everyday!!
+#### I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & Technology][thapar]
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 ### ![](https://komarev.com/ghpvc/?username=shourygupta28)
 
-### I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to ecplore new technologies everyday!!
 
 
 - 🔭 I am currently working on myself ! 😬
@@ -52,3 +54,4 @@
 [instagram]: https://instagram.com/_._arcane_
 [email]: mailto:shourya.2001gupta@gmail.com
 [linkedin]: https://linkedin.com/in/shouryguptaa
+[thapar]: https://thapar.edu/
