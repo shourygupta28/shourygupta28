@@ -2,10 +2,10 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
-
-### I'm a MERN Web developer, UI/UX Designer and a Freelancing Graphic designer!!
-
 ### ![](https://komarev.com/ghpvc/?username=shourygupta28)
+
+### I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to ecplore new technologies everyday!!
+
 
 - 🔭 I am currently working on myself ! 😬
 - 🌱 I’m currently learning React-Native, Django 💡
@@ -14,13 +14,7 @@
 - 📫 How to reach me - [shourya.2001gupta@gmail.com][email]
 - ⚡ Fun fact: I love to draw and play guitar / keyboard
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -44,7 +38,13 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourygupta28&count_private=true&show_icons=true&theme=radical)
 
+### Connect with me:
 
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/iamshoury
