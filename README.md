@@ -38,7 +38,7 @@
 <br />
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourygupta28&count_private=true&include_all_commits&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourygupta28&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
 
 ### Connect with me:
 
