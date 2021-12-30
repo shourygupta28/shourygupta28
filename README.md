@@ -10,7 +10,7 @@
 
 Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Electronics & Communication Undergraduate 👨🏽‍💼@[Thapar Institute of Engineering & Technology][thapar] and Joint Secretary at @[Entrepreneurship Development Cell][edc] , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[Arcane][instagram]
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
 
 ## 🙋‍♂️ About Me
 
