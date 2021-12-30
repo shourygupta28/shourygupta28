@@ -5,13 +5,14 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
+![Profile views](https://gpvc.arturio.dev/shourygupta28)
 <br />
 
 Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Electronics & Communication Undergraduate 👨🏽‍💼@[Thapar Institute of Engineering & Technology][thapar] and Joint Secretary at @[Entrepreneurship Development Cell][edc] , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[Arcane][instagram]
 
-![Profile views](https://gpvc.arturio.dev/shourygupta28)
 
 
+## 🙋‍♂️ About Me
 
 - 🔭 I am currently working on myself ! 😬
 - 🌱 I’m currently learning React-Native, Django 💡
@@ -44,7 +45,7 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 </p>
 
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shpurygupta28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shourygupta28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourygupta28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
