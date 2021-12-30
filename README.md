@@ -16,7 +16,6 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 
 - 🔭 I am currently working on myself ! 😬
 - 🌱 I’m currently learning React-Native, Django 💡
-- 👯 I’m looking to collaborate with enthusiastic coders and web developers for my projects
 - 💬 Ask me about - Anything related to web technologies, graphic designing 😃
 - 📫 How to reach me - [shourya.2001gupta@gmail.com][email]
 - ⚡ Fun fact: I love to draw and play guitar / keyboard
@@ -45,7 +44,7 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 </p>
 
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shourygupta28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shourygupta28&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourygupta28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
