@@ -3,7 +3,7 @@
 I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to explore new technologies everyday!!
 I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & Technology][thapar]
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Linkedin](https://img.shields.io/website?label=linkedin.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://linkedin.com/shouryaguptaa)
 
 ![Profile views](https://gpvc.arturio.dev/shourygupta28)
 
