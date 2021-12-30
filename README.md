@@ -1,6 +1,6 @@
-### Hi there 👋 
+### Hi there 👋 , I am [Shourya Gupta](www.github.com)
 
-My name is Shourya Gupta. I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to explore new technologies everyday!!
+I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to explore new technologies everyday!!
 I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & Technology][thapar]
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
@@ -41,6 +41,7 @@ I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & T
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shourygupta28&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shourygupta28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
