@@ -2,9 +2,9 @@
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" />][instagram]
 <br />
 
 Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Electronics & Communication Undergraduate 👨🏽‍💼@[Thapar Institute of Engineering & Technology][thapar] and Joint Secretary at @[Entrepreneurship Development Cell][edc] , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[Arcane][instagram]
@@ -44,8 +44,8 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 </p>
 
 
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shpurygupta2828&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhamRaoniar28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shpurygupta28&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shourygupta28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 
 
