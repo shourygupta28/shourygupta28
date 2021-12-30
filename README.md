@@ -3,7 +3,7 @@
 I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to explore new technologies everyday!!
 I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & Technology][thapar]
 
-![](https://github-profile-views-counter-shourygupta28.vercel.app/?username=shourygupta28)
+![](https://komarev.com/ghpvc/?username=shourygupta28)
 
 
 
