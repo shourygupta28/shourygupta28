@@ -1,4 +1,4 @@
-### Hi there <img src="https://tenor.com/view/elsalla-gif-19369358" width="40" height="40" /> 
+### Hi there ![Alt Text](https://tenor.com/view/elsalla-gif-19369358) 
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
