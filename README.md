@@ -1,7 +1,12 @@
-### Hi there 👋 , I am [Shourya Gupta](www.github.com)
+### Hi there <img src="https://tenor.com/view/elsalla-gif-19369358" width="40" height="40" /> 
 
-I'm a Full Stack Web developer, a UI/UX Designer and a Freelancing Graphic designer, who likes to explore new technologies everyday!!
-I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & Technology][thapar]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Computer Science Undergraduate 👨🏽‍💼@Thapar Institute of Engineering & Technology and Joint Secretary at @Entrepreneurship Development Cell , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[PixxelPanda][instagram]
 
 ![Profile views](https://gpvc.arturio.dev/shourygupta28)
 
@@ -42,13 +47,9 @@ I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & T
 
 ![](https://github.com/shourygupta28/github-stats/blob/master/generated/overview.svg/)
 
-### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
 
 [website]: https://codeSTACKr.com
 [twitter]: https://twitter.com/iamshoury
