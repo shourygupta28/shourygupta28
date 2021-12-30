@@ -5,6 +5,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<br />
 
 Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Computer Science Undergraduate 👨🏽‍💼@Thapar Institute of Engineering & Technology and Joint Secretary at @Entrepreneurship Development Cell , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[PixxelPanda][instagram]
 
