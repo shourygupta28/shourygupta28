@@ -18,6 +18,7 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 - 🌱 I’m currently learning React-Native, Django 💡
 - 💬 Ask me about - Anything related to web technologies, graphic designing 😃
 - 📫 How to reach me - [shourya.2001gupta@gmail.com][email]
+- 📝[Resume](https://drive.google.com/file/d/1snoHOHdBiNxjX2hUbEucF3HqUz1RXPdo/view?usp=sharing)
 - ⚡ Fun fact: I love to draw and play guitar / keyboard
 
 
