@@ -37,7 +37,7 @@ I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & T
 <br />
 
 
-![Shourya's GitHub stats](https://https://github-readme-stats-shourygupta28.vercel.app/api?username=shourygupta28&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
+![Shourya's GitHub stats](https://github-readme-stats-shourygupta28.vercel.app/api?username=shourygupta28&include_all_commits=true&count_private=true&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shourygupta28&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
