@@ -5,7 +5,6 @@ I am currently pursuing my B.E. in ECE from [Thapar Institute of Engineering & T
 
 ![Profile views](https://gpvc.arturio.dev/shourygupta28)
 
-![Profile Views](https://github-profile-views-counter-1.vercel.app/api?username=shourygupta28)
 
 
 - 🔭 I am currently working on myself ! 😬
