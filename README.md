@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=shourygupta28)
 <br />
 
-Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Electronics & Communication Undergraduate 👨🏽‍💼@[Thapar Institute of Engineering & Technology][thapar] and Joint Secretary at @[Entrepreneurship Development Cell][edc] , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[Arcane][instagram]
+Hi, I'm [Shourya Gupta](shouryagupta.me), a Full Stack Web Developer 🚀 , Graphic Designer ✨ & UI/UX Designer from India. I am a Electronics & Communication Undergraduate 👨🏽‍💼@[Thapar Institute of Engineering & Technology][thapar] and Joint Secretary at @[Entrepreneurship Development Cell][edc] , TIET. Beside's programming, I enjoy eating food and traveling. Currently , I'm a Project Lead 🙍🏽‍♂️ @[Arcane][instagram]
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="436" height="280" />
 
@@ -51,7 +51,7 @@ Hi, I'm [Shourya Gupta](www.github.com), a Full Stack Web Developer 🚀 , Graph
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://shouryagupta.me
 [edc]: https://www.instagram.com/edc_tiet/
 [twitter]: https://twitter.com/iamshoury
 [github]: https://github.com/shourygupta28
