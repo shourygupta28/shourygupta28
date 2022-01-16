@@ -45,8 +45,8 @@ Hi, I'm [Shourya Gupta](shouryagupta.me), a Full Stack Web Developer 🚀 , Grap
 </p>
 
 
-<a href="https://github.com/shourygupta28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats-shourygupta28.vercel.app/api?username=shourygupta28&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=4569a8" /></a>
-<a href="https://github.com/shourygupta28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats-shourygupta28.vercel.app/api/top-langs/?username=shourygupta28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=4569a8" /></a>
+<a href="https://github.com/shourygupta28/github-readme-stats"><img alt="Shourya's Github Stats" src="https://github-readme-stats-shourygupta28.vercel.app/api?username=shourygupta28&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" /></a>
+<a href="https://github.com/shourygupta28/github-readme-stats"><img alt="Shourya's Top Languages" src="https://github-readme-stats-shourygupta28.vercel.app/api/top-langs/?username=shourygupta28&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff" /></a>
 
 
 
