@@ -17,7 +17,7 @@ Hi, I'm [Shourya Gupta][website], a Full Stack Web Developer 🚀 , Graphic Desi
 - 🔭 I am currently working on myself ! 😬
 - 🌱 I’m currently learning React-Native, Django 💡
 - 💬 Ask me about - anything. I'm always ready to help.😃
-- 📫 How to reach me - [shourya.2001gupta@gmail.com][email]
+- 📫 How to reach me - [samarth.g2001@gmail.com][email]
 - 📝[Resume](https://drive.google.com/file/d/1snoHOHdBiNxjX2hUbEucF3HqUz1RXPdo/view?usp=sharing)
 - ⚡ Fun fact: I love to draw and play guitar / keyboard
 
