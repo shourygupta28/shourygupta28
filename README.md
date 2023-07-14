@@ -51,7 +51,7 @@ Hi, I'm [Shourya Gupta][website], a Full Stack Web Developer 🚀 , Graphic Desi
 
 
 
-[website]: https://shouryagupta.me
+[website]: https://shourygupta28.github.io/My-React-Portfolio/
 [edc]: https://www.instagram.com/edc_tiet/
 [twitter]: https://twitter.com/iamshoury
 [github]: https://github.com/shourygupta28
